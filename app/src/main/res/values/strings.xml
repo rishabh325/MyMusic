@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Music</string>
+    <string name="title_activity_player">Player</string>
+    <string name="title_activity_login">My Music</string>
+</resources>
